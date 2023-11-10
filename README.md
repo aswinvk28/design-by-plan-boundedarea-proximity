@@ -38,3 +38,21 @@ An example of application of design by proximity shown here is derived using gra
 ![An coeffients](./images/An_coeff.png)
 
 ![Bn coeffients](./images/Bn_coeff.png)
+
+![MoJ - Collaboration](./images/Access-Request-aswinkvj-klinterai-com-Aswin-Vijayakumar-Mail.png)#
+
+**Case Management Improvement Team**
+### **CLIENT CASE MANAGEMENT Lead Discussing with Regards to CLEAN CODE MANAGEMENT for a BUILDING SURVEILLANCE and FURTHER METRICS UTILIZED during the COURSE of ACTION.**
+
+##### Issue Register
+
+![Issue Register - Methods of Register](./images/Methods of Register - Issue_Register.png)
+
+###### The Complaint
+
+![The Complaint - Methods of Register](./images/Methods of Register - The_Complaint.png)
+
+###### Communication Strategy
+
+![Communication Strategy - Methods of Register](./images/Methods of Register - Communication_Strategy.png)
+
