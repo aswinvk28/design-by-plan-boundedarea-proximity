@@ -39,9 +39,9 @@ An example of application of design by proximity shown here is derived using gra
 
 ![Bn coeffients](./images/Bn_coeff.png)
 
-![MoJ - Collaboration](./images/Access-Request-aswinkvj-klinterai-com-Aswin-Vijayakumar-Mail.png)#
+![MoJ - Collaboration](./images/Access-Request-aswinkvj-klinterai-com-Aswin-Vijayakumar-Mail.png)
 
-**Case Management Improvement Team**
+# **Case Management Improvement Team**
 ### **CLIENT CASE MANAGEMENT Lead Discussing with Regards to CLEAN CODE MANAGEMENT for a BUILDING SURVEILLANCE and FURTHER METRICS UTILIZED during the COURSE of ACTION.**
 
 ##### Issue Register
