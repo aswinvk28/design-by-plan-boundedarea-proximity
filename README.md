@@ -46,13 +46,13 @@ An example of application of design by proximity shown here is derived using gra
 
 ##### Issue Register
 
-![Issue Register - Methods of Register](./images/Methods of Register - Issue_Register.png)
+![Issue Register - Methods of Register](./images/Methods%%20Register%20-%20Issue%20Register.png)
 
 ###### The Complaint
 
-![The Complaint - Methods of Register](./images/Methods of Register - The_Complaint.png)
+![The Complaint - Methods of Register](./images/Methods%20of%20Register%20-%20The%20Complaint.png)
 
 ###### Communication Strategy
 
-![Communication Strategy - Methods of Register](./images/Methods of Register - Communication_Strategy.png)
+![Communication Strategy - Methods of Register](./images/Methods%20of%20Register%20-%20Communication%20Strategy.png)
 
